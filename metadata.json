@@ -1,0 +1,6 @@
+{
+  "name": "Sutra - PDF to AI Mind Map",
+  "description": "Transform PDF documents and books into interactive chronological AI mind maps with concept nodes, chronological branching, and visual export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
